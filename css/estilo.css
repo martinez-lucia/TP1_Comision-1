@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+h4{
+font-weight: 500;
+font-size: 15px;
+}
+
+#vinculo{
+color: #0099D7;
+}
+    
+#vinculo:hover{
+font-weight: 750;
+font-style: normal;
+}
+    
+a:hover{
+text-decoration: none;
+}
+
+header{
+background-color:#f6f1f3;
+font-family: "Work Sans", sans-serif;
+}
+    
+h1,h2{
+color: #e85e98;
+text-align: center;
+}
+    
+h1 {font-size: 70px;}
+    
+h2{font-size: 48px;}
+    
+img{
+width: 50%;
+margin: auto;
+display: block;
+border-radius: 50%;
+align-items: center;
+}
+
+li{
+font-weight: 600;
+font-size: 15px;
+}
+    
+a{
+text-decoration: none;
+color: #e6aec6;
+}
+    
+a:hover{
+font-style: italic;
+text-decoration: none;
+color: #e1518d
+}
+
+h3{
+font-size: 30px;
+font-weight: 800; 
+color: #e492b4;
+}
+
+body{
+color: #24000f;
+background-color:#f6f1f3;
+font-family: "Montserrat", sans-serif;
+font-weight: 300;
+margin-left: 350px;
+margin-right: 350px;
+}
